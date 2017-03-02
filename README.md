@@ -1,3 +1,2 @@
 # hello-world
-the beginning
-I very much like pizza!
+I would really love to learn as much as I can about coding!
